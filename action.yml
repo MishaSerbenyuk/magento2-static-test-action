@@ -1,5 +1,5 @@
-name: 'Magento 2 Static Test'
-description: 'Run magento 2 static test in your repository'
+name: 'Magento 2 PHPCS test'
+description: 'Run magento 2 static test in your repository forked from konarshankar07/magento2-static-test-action'
 author: 'Shankar Konar'
 runs:
   using: 'docker'
