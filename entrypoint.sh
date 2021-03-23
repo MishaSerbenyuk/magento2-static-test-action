@@ -4,4 +4,4 @@ echo "Running Magento2 PHP CodeSniffer"
 composer global require --dev magento/magento-coding-standard
 export PATH="$HOME/.composer/vendor/bin:$PATH"
 phpcs --config-set installed_paths ~/.composer/vendor/magento/magento-coding-standard/
-phpcs --ignore=*/vendor/* --standard=Magento2 ./
+phpcs --ignore=*/vendor/* -n --standard=Magento2 ./
