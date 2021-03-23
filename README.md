@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Magento 2 Static Test
-        uses: konarshankar07/magento2-static-test-action@v1.0.0
+        uses: MishaSerbenyuk/magento2-static-test-action
 ```
 
 ## Example Configuration
