@@ -1,3 +1,4 @@
+This module forked from onarshankar07/magento2-static-test-action, for compability with clear modules testing
 # Magento 2 Static Test Action
 Magento 2 Static Test Action is used to run static test for Magento 2 modules and improve the quality of code as per Magento coding standards
 
